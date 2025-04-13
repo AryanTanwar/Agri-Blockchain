@@ -1,0 +1,29 @@
+
+---
+
+## ⚙️ `.gitignore`
+
+```gitignore
+# Node modules
+node_modules/
+*.log
+
+# React Native
+android/app/build/
+ios/build/
+*.keystore
+
+# Fabric and Docker
+fabric-network/crypto-config/
+fabric-network/channel-artifacts/
+*.block
+*.tx
+*.pem
+
+# OS files
+.DS_Store
+.env
+
+# IDEs
+.vscode/
+.idea/
