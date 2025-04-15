@@ -1,4 +1,4 @@
-# 🤝 Contributing to AgriChain
+# 🤝 Contributing to SpashtKrishi
 
 We love contributions from the community! Whether you're fixing a bug, adding a feature, improving documentation, or sharing ideas, your help is appreciated.
 
