@@ -1,4 +1,4 @@
-# 🛣️ AgriChain Roadmap
+# 🛣️ SpashtKrishi Roadmap
 
 ## Q2 2025 - MVP Launch 🚀
 - [x] Farmer app (crop listing, offer handling)
