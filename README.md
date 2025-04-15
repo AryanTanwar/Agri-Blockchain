@@ -1,4 +1,4 @@
-# 🌾 AgriChain – Blockchain-based Agri Trading & Logistics Platform
+# 🌾 SpashtKrishi – Blockchain-based Agri Trading & Logistics Platform
 
 ### 🚀 Empowering Indian Farmers with Transparency, Traceability & Trust
 
@@ -21,7 +21,7 @@
 
 ## 🧭 About the Project
 
-AgriChain is a blockchain-powered agricultural trading and logistics platform tailored for India’s farming ecosystem. It connects farmers, buyers, mandis, and transporters through a decentralized, secure, and traceable platform using smart contracts and mobile-first access.
+SpashtKrishi is a blockchain-powered agricultural trading and logistics platform tailored for India’s farming ecosystem. It connects farmers, buyers, mandis, and transporters through a decentralized, secure, and traceable platform using smart contracts and mobile-first access.
 
 ---
 
@@ -74,7 +74,7 @@ Farmer App → Backend API → Blockchain (Fabric) → Buyer App / Mandi Dashboa
 
 ```bash
 # Clone the repo
-git clone https://github.com/AryanTanwar/Agi-Blockchain.git
+git clone https://github.com/AryanTanwar/Agri-Blockchain.git
 cd Agi-Blockchain
 
 # Install backend dependencies
@@ -95,7 +95,7 @@ npx react-native run-android
 ## 🗂️ Folder Structure
 
 ```
-agrichain/
+SpashtKrishi/
 ├── backend/
 │   ├── controllers/
 │   ├── routes/
